@@ -1,0 +1,9 @@
+PyPDF2
+nltk
+spacy
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
